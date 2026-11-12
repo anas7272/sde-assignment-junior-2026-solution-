@@ -1,20 +1,9 @@
 # AI Usage Disclosure
 
-AI tools are allowed. We want to know **how** you used them, because using them well is a
-skill. Honest answers are never held against you. Discovering undisclosed use is.
+Muhammad Anas used ChatGPT and Claude (not Claude Code or Codex) to analyze the assignment,
+discuss strategy and trade-offs, and compare approaches before making the final design decisions.
+Copilot SDK in VS Code was used for a follow-up specification review, the event validation-order
+fix and regression tests, documentation/repository preparation, and validation.
 
-## Tools used
-_e.g. Claude, Cursor, Copilot, ChatGPT, or "none"_
-
-## What I used them for
-_e.g. "scaffolded the FastAPI receiver", "explained Temporal activity retries", "wrote the first
-draft of the phone-normalisation tests"_
-
-## What I wrote or decided myself
-_The parts that are your own thinking: design, data model, edge-case handling..._
-
-## Where the AI was wrong or unhelpful
-_At least one example of output you rejected or had to fix, and how you noticed._
-
-## How I verified AI-generated code
-_Tests, manual runs, reading it line by line..._
+See [assignment-a-data/solution/AI_USAGE.md](./assignment-a-data/solution/AI_USAGE.md) for the
+specific work performed, correction to the earlier inaccurate draft, and verification results.

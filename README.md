@@ -39,6 +39,10 @@ pip install -r requirements.txt
 # then follow your chosen assignment's README
 ```
 
+For Assignment A, the solution uses only the Python 3.11+ standard library, so installing
+`requirements.txt` is not necessary. Its source, tests, and run commands are in
+[`assignment-a-data/solution/`](assignment-a-data/solution/).
+
 `docker-compose.yml` starts a local Postgres if you want one (`docker compose up -d`). SQLite
 is equally acceptable.
 
