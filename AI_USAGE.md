@@ -1,6 +1,6 @@
 # AI Usage Disclosure
 
-Muhammad Anas used ChatGPT and Claude (not Claude Code or Codex) to analyze the assignment,
+Used ChatGPT and Claude (not Claude Code or Codex) to analyze the assignment,
 discuss strategy and trade-offs, and compare approaches before making the final design decisions.
 Copilot SDK in VS Code was used for a follow-up specification review, the event validation-order
 fix and regression tests, documentation/repository preparation, and validation.
