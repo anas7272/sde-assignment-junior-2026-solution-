@@ -3,8 +3,8 @@
 ## Candidate
 
 - **Name:** Anas Muhammad
-- **Assignment chosen:** A (Data)
-- **Time spent (honest estimate):** [Enter your actual time spent]
+- **Assignment chosen:** A 
+- **Time spent :** 4 hours
 
 ## How to run
 
